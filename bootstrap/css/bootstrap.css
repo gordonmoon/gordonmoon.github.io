@@ -615,7 +615,7 @@ abbr.initialism {
 blockquote {
   padding: 0 0 0 15px;
   margin: 0 0 18px;
-  border-left: 5px solid #ad0d0a;
+  border-left: 5px solid #eeeeee;
 }
 
 blockquote p {
@@ -639,7 +639,7 @@ blockquote.pull-right {
   float: right;
   padding-right: 15px;
   padding-left: 0;
-  border-right: 5px solid #1627a1;
+  border-right: 5px solid #eeeeee;
   border-left: 0;
 }
 
