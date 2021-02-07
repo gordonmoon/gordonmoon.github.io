@@ -513,7 +513,7 @@ h6 {
 .page-header {
   padding-bottom: 17px;
   margin: 18px 0;
-  border-bottom: 1px solid #ad0d0a;
+  border-bottom: 1px solid #eeeeee;
 }
 
 .page-header h1 {
@@ -586,7 +586,7 @@ dd {
 hr {
   margin: 18px 0;
   border: 0;
-  border-top: 1px solid #1627a1;
+  border-top: 1px solid #ad0d0a;
   border-bottom: 1px solid #ffffff;
 }
 
