@@ -159,12 +159,14 @@ body {
 }
 
 a {
-  color: #0e08bf;
+  color: #cb0000;
+/*   color: #0e08bf; */
   text-decoration: none;
 }
 
 a:hover {
-  color: #080061;
+  color: #9a0000;
+/*   color: #080061; */
   text-decoration: underline;
 }
 
